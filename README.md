@@ -14,13 +14,13 @@
 
 ## 멤버
 
-|  ![황희정프로필](https://github.com/goatFE.png?size=100)  | ![박하은프로필](https://github.com/pullingoff.png?size=100) | ![정보연프로필](https://github.com/JEONGBOYEON.png?size=100) |
-|:---------------------------------------------------:|:-----------------------------------------------------:|:------------------------------------------------------:|
-|          [황희정](https://github.com/goatFE)           |         [박하은](https://github.com/pullingoff)          |         [정보연](https://github.com/JEONGBOYEON)          |
-|                 **자바스크립트 기본기 끝내기**                  |             **거미는 자신의 실로써 공간의 자유에 이른다.**              |                       **적어주세요**                        |
-| ![양현화프로필](https://github.com/hhyanghh.png?size=100) |   ![류재경프로필](https://github.com/ujkey.png?size=100)    |                                                        |
-|         [양현화](https://github.com/hhyanghh)          |            [류재경](https://github.com/ujkey)            |                                                        |
-|                      **적어주세요**                      |                       **적어주세요**                       |                                                        |
+|  ![황희정프로필](https://github.com/goatFE.png?size=100)  | ![박하은프로필](https://github.com/pullingoff.png?size=100) |    ![정보연프로필](https://github.com/boyeonJ.png?size=100)     |
+|:---------------------------------------------------:|:-----------------------------------------------------:|:--------------------------------------------------:|
+|          [황희정](https://github.com/goatFE)           |         [박하은](https://github.com/pullingoff)          |         [정보연](https://github.com/boyeonJ)          |
+|                 **자바스크립트 기본기 끝내기**                  |             **거미는 자신의 실로써 공간의 자유에 이른다.**              |                     **적어주세요**                      |
+| ![양현화프로필](https://github.com/hhyanghh.png?size=100) |   ![류재경프로필](https://github.com/ujkey.png?size=100)    | ![송하프로필](https://github.com/poan1221.png?size=100) |                                                    |
+|         [양현화](https://github.com/hhyanghh)          |            [류재경](https://github.com/ujkey)            |         [송하](https://github.com/poan1221)          |                                                        |
+|                      **적어주세요**                      |                       **적어주세요**                       |                     **적어주세요**                      |                                                       |
 
 ## 시간
 
